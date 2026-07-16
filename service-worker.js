@@ -1,4 +1,4 @@
-const CACHE_NAME = "mi-hogar-v5-8-0";
+const CACHE_NAME = "mi-hogar-v5-8-1";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -6,7 +6,8 @@ const APP_SHELL = [
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/icon-maskable-512.png",
-  "./icons/apple-touch-icon.png"
+  "./icons/apple-touch-icon.png",
+  "./icons/favicon-64.png"
 ];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)));

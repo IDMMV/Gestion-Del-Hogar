@@ -1,13 +1,21 @@
-MI HOGAR AL DÍA — PWA V5.8.0
+MI HOGAR AL DÍA — PWA V5.8.1
 
-SUBIR A GITHUB PAGES
+Esta versión incluye el ícono elegido: Opción B (casa y familia).
+
+SUBIR A GITHUB
 1. Descomprime este ZIP.
-2. Sube index.html, manifest.webmanifest, service-worker.js y la carpeta icons al nivel principal del repositorio.
-3. No subas solamente index.html: la PWA necesita todos los archivos.
-4. Abre https://idmmv.github.io/Gestion-Del-Hogar/
-5. En Chrome Android aparecerá el botón “Instalar aplicación” o la opción “Agregar a pantalla principal”.
+2. Sube todos los archivos y la carpeta icons a la raíz del repositorio.
+3. Reemplaza los archivos anteriores.
+4. Conserva el nombre index.html.
+
+ARCHIVOS PRINCIPALES
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icons/
 
 IMPORTANTE
-- GitHub Pages debe estar publicado mediante HTTPS.
-- Después de reemplazar archivos, recarga la web o elimina la versión instalada anterior si conserva caché antigua.
-- Supabase Site URL y Redirect URL deben apuntar a https://idmmv.github.io/Gestion-Del-Hogar/
+El navegador puede conservar el ícono anterior por caché. Después de publicar:
+- recarga con Ctrl+F5 en computadora;
+- en el celular, elimina la instalación anterior y vuelve a instalarla;
+- espera unos minutos a que GitHub Pages actualice los archivos.
