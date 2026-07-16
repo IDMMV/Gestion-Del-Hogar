@@ -1,7 +1,7 @@
 {
   "name": "Mi Hogar al Día",
   "short_name": "Mi Hogar",
-  "description": "Organiza tareas, calendario, gastos, pizarra, juegos y documentos del hogar.",
+  "description": "Organización del hogar con panel de administración general, tareas, gastos, documentos y grupos familiares.",
   "lang": "es-PE",
   "start_url": "./",
   "scope": "./",

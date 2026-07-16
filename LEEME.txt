@@ -1,24 +1,3 @@
-MI HOGAR AL DÍA — PWA V5.8.2
+MI HOGAR AL DÍA PWA V5.9.0 — PANEL DE SUPERADMINISTRADOR
 
-Esta versión incluye el ícono elegido: Opción B (casa y familia).
-
-SUBIR A GITHUB
-1. Descomprime este ZIP.
-2. Sube todos los archivos y la carpeta icons a la raíz del repositorio.
-3. Reemplaza los archivos anteriores.
-4. Conserva el nombre index.html.
-
-ARCHIVOS PRINCIPALES
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icons/
-
-IMPORTANTE
-El navegador puede conservar el ícono anterior por caché. Después de publicar:
-- recarga con Ctrl+F5 en computadora;
-- en el celular, elimina la instalación anterior y vuelve a instalarla;
-- espera unos minutos a que GitHub Pages actualice los archivos.
-
-
-V5.8.2: encabezado móvil corregido. El botón Cerrar sesión superior se oculta en celular y continúa disponible en el menú lateral.
+Ejecuta primero el SQL de superadministrador general. Sube todos los archivos, cierra sesión y vuelve a ingresar. En el menú lateral aparecerá Administración general.
