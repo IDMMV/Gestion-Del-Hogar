@@ -1,4 +1,4 @@
-MI HOGAR AL DÍA — PWA V5.8.1
+MI HOGAR AL DÍA — PWA V5.8.2
 
 Esta versión incluye el ícono elegido: Opción B (casa y familia).
 
@@ -19,3 +19,6 @@ El navegador puede conservar el ícono anterior por caché. Después de publicar
 - recarga con Ctrl+F5 en computadora;
 - en el celular, elimina la instalación anterior y vuelve a instalarla;
 - espera unos minutos a que GitHub Pages actualice los archivos.
+
+
+V5.8.2: encabezado móvil corregido. El botón Cerrar sesión superior se oculta en celular y continúa disponible en el menú lateral.
